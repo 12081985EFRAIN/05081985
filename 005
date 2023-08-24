@@ -1,5 +1,3 @@
-#EXTINF:-1 tvg-logo="https://miro.medium.com/v2/resize:fit:450/1*z5mprgSQP_IdiKfmJ0EZcA.jpeg" group-title="XXX",videoX
-https://www.googleapis.com/drive/v3/files/1Vw8GJnGdi40EqpYoTc4cBL6KuoCzX8cP?alt=media&key=AIzaSyD936yRdtpQnl8adtVE3zNTOCL4Idi05Wk
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Miami_tv.png" group-title="XXX", MiamiTV MX
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_playboy_m.png" group-title="XXX",Playboy HD
@@ -12,6 +10,8 @@ http://138.59.177.34:8000/play/a04h/index.m3u8
 http://168.228.194.32:58001/play/a04i/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_venus_m.png" group-title="XXX",VENUS
 http://168.228.194.32:58001/play/a079/index.m3u8
+#EXTINF:-1 tvg-logo="https://miro.medium.com/v2/resize:fit:450/1*z5mprgSQP_IdiKfmJ0EZcA.jpeg" group-title="XXX",videoX
+https://www.googleapis.com/drive/v3/files/1Vw8GJnGdi40EqpYoTc4cBL6KuoCzX8cP?alt=media&key=AIzaSyD936yRdtpQnl8adtVE3zNTOCL4Idi05Wk
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX", sexo anal
 http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX", LeslyTV MX
